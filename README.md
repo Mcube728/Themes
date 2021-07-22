@@ -6,6 +6,7 @@ Themes Present:
 <li>Gtk-Dark<br><img src="https://files.catbox.moe/t1xzva.png"></img></li>
 <li>Platinum-Dark<br><img src="https://pomf.lain.la/f/9tx8a0r.png"></img></li>
 <li>Platinum-MonoDark<br><img src="https://pomf.lain.la/f/eujcwuhg.png"></img></li>
+<li>Coldsteel-Dark<br><img src="https://pomf.lain.la/f/xyf97xwb.png"></img></li>
 </ol>
 
 ## Installation
